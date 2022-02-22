@@ -1,3 +1,4 @@
+ # TXT :white_check_mark:  
  1. Создать внешний репозиторий c названием TXT  
  >**github.com->repositories->press "New"->giving name to repository-> click on "Create repository"**
  3. Клонировать репозиторий TXT на локальный компьютер.  
